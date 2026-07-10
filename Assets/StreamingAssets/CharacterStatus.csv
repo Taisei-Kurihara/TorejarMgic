@@ -1,0 +1,7 @@
+name,maxHp,baseAttack,baseDefense
+Player,100,12,8
+Slime,30,5,2
+Goblin,50,8,4
+Skeleton,40,10,3
+Orc,80,15,10
+Dragon,200,25,20
